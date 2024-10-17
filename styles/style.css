@@ -157,6 +157,10 @@ img {
   padding: 20px;
 }
 
+.time > p {
+  font-size: 20px; font-weight: bold; color: var(--rose-800);
+}
+
 .nutrition > p {
   margin-top: 24px;
 }
